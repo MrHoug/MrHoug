@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MrHoug
-I have a college education not in the sciences.  Have had a number of jobs, some directly relating to technology.  Am interested in learning about STEM in general.
 - 👀 I’m interested in programming and theoretical designs of deep neural networks.  Am working on some basic concepts to apply to deep neural networks based on the deep neural networks foundation course on Coursera.  Some big picture ideas relating to A.I. are in the wiki.  
 - 🌱 I’m currently learning Android and Python.
 - 💞️ I’m looking to collaborate on.
